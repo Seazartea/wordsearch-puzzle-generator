@@ -1,1 +1,1 @@
-# wordsearch-puzzle-pdf-generator
+# wordsearch-puzzle-generator
