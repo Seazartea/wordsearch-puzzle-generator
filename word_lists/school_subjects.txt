@@ -1,0 +1,113 @@
+accounting
+aerospace engineering
+agriculture
+algebra
+anatomy
+animal science
+anthropology
+archaeology
+architecture
+arithmetic
+art
+art history
+astronomy
+biology
+biomedical sciences
+business and management
+business studies
+calculus
+chemical engineering
+chemistry
+chinese
+choir
+citizenship
+civil engineering
+classical studies
+computer games and animation
+computer science
+construction
+creative arts
+creative writing
+criminology
+culinary arts
+cultural studies
+cybersecurity
+dance
+dentistry
+design
+design and technology
+drama
+early childhood education
+earth science
+economics
+education and teaching
+electrical engineering
+engineering
+english
+english language
+english literature
+environmental and earth sciences
+environmental science
+ethics
+events management
+fashion design
+film and media
+finance
+fine art
+food science
+foreign languages
+forensic science
+forestry
+french
+geography
+geology
+geometry
+german
+graphic design
+greek
+health and social care
+history
+humanities
+illustration
+international studies
+italian
+japanese
+journalism
+latin
+law
+liberal arts
+marine and ocean sciences
+marketing
+maths
+mechanical engineering
+media studies
+medicine
+microbiology
+midwifery
+music
+music technology
+natural sciences
+nursing
+performing arts
+philosophy
+photography
+physical education
+physics
+physics and astronomy
+political science
+politics
+product design
+psychology
+religious studies
+social sciences
+social studies
+sociology
+software development
+spanish
+special education
+special needs teaching
+sports science
+statistics
+textiles
+veterinary science
+writing

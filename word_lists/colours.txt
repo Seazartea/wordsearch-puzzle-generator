@@ -1,0 +1,102 @@
+amber
+aqua
+aquamarine
+arctic blue
+ash
+azure
+beige
+black
+blue
+bronze
+brown
+brunette
+burgundy
+charcoal
+chartreuse
+cherry red
+chocolate
+coffee brown
+coral
+cornflower blue
+cream
+crimson
+cyan
+dark blue
+dark green
+dark grey
+dark orange
+dark red
+dark turquoise
+deep pink
+emerald
+floral white
+forest green
+fuchsia
+garnet
+ghost white
+gold
+green
+grey
+honey dew
+hot pink
+indigo
+ivory
+jade
+jet black
+khaki
+lavender
+lawn green
+lemon chiffon
+lemon yellow
+light blue
+light green
+light grey
+light pink
+light salmon
+light yellow
+lilac
+lime
+magenta
+maroon
+mauve
+midnight blue
+mint
+mustard
+navy blue
+olive
+orange
+orange red
+orchid
+pale green
+peach
+pearl
+pink
+plum
+powder blue
+purple
+red
+rosewood
+royal blue
+ruby
+rust
+saddle brown
+saffron
+salmon
+sapphire
+sea green
+silver
+sky blue
+slate blue
+snow
+spring green
+steel blue
+tan
+tangerine
+teal
+turquoise
+umber
+violet
+white
+white smoke
+yellow
+yellow green

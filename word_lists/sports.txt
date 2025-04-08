@@ -1,0 +1,83 @@
+aikido
+alpine skiing
+american football
+archery
+australian rules football
+badminton
+baseball
+basketball
+bobsledding
+boules
+bowling
+bowls
+boxing
+canoeing
+cricket
+croquet
+curling
+cycling
+darts
+discus throw
+diving
+downhill skiing
+equestrian
+fencing
+field archery
+field hockey
+figure skating
+football
+freestyle skiing
+gaelic football
+golf
+gymnastics
+hammer throw
+handball
+high jump
+hockey
+ice hockey
+javelin throw
+judo
+jujitsu
+karate
+kendo
+lacrosse
+long jump
+long distance running
+marathon
+martial arts
+mixed martial arts
+netball
+parallel bars
+pole vault
+rings
+roller-skating
+rounders
+rowing
+rugby
+running
+sailing
+shot put
+skateboarding
+skating
+ski jumping
+skiing
+skittles
+sledding
+snooker
+snowboarding
+softball
+speed skating
+squash
+sumo
+surfing
+swimming
+table tennis
+taekwondo
+tennis
+tobogganing
+triple jump
+uneven parallel bars
+volleyball
+water polo
+windsurfing
+wrestling
