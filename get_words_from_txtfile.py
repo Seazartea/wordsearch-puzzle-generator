@@ -98,15 +98,7 @@ def get_words(choice):
                 input_list = file.read().splitlines()
         except FileNotFoundError:
             sys.exit("Input file 'periodic_elements.txt' does not exist")
-
-    elif choice == "11":
-        title = "..."
-        try:
-            with open("word_lists/....txt", "r") as file:
-                input_list = file.read().splitlines()
-        except FileNotFoundError:
-            sys.exit("Input file '....txt' does not exist")
-
+            
     else:
         title = "Word Search"
         try:
