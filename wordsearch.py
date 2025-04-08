@@ -17,7 +17,7 @@ def create_wordsearch_grid(word_list):
     directions = ["N", "NE", "E", "SE", "S", "SW", "W", "NW"]
     wordsearch_words = []
 
-    while len(wordsearch_words) < 30:
+    while len(wordsearch_words) < 24:
         n = 0
         keep_looping = "yes"
         #exits program if tried every word in chosen word list
@@ -55,7 +55,7 @@ def create_wordsearch_grid(word_list):
 def make_empty_grid():
     #set dimensions here
     width = 22
-    height = 23
+    height = 24
     grid = []
     for i in range(height):
         line = []
