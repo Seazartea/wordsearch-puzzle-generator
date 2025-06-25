@@ -14,3 +14,5 @@
 10. Sports
 11. A general list that contains all words from the other themes
 
+
+### I plan to make it so the code will run via a webpage to make it more accessible and allow previewing the created wordsearch before choosing to download or create a new wordsearch.
